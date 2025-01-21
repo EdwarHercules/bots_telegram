@@ -1,0 +1,5 @@
+python-telegram-bot
+SQLAlchemy
+pandas
+python-dotenv
+PyMySQL
